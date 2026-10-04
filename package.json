@@ -1,5 +1,5 @@
 {
-  "name": "biodrop-recipes",
+  "name": "linkfree-recipes",
   "version": "1.0.0",
   "description": "Tools for linkfree to manage (validate, update and create)  data",
   "main": "dist/index.js",
