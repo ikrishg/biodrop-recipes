@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krshoss/linkfree-recipes.git"
+    "url": "git+https://github.com/ikrishg/linkfree-recipes.git"
   },
   "keywords": [
     "linkfree",
@@ -21,9 +21,9 @@
   "author": "Krish Gupta <hey@krsh.eu.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krshoss/linkfree-recipes/issues"
+    "url": "https://github.com/ikrishg/linkfree-recipes/issues"
   },
-  "homepage": "https://github.com/krshoss/linkfree-recipes#readme",
+  "homepage": "https://github.com/ikrishg/linkfree-recipes#readme",
   "dependencies": {
     "ajv": "^8.12.0",
     "globby": "^14.1.0",
