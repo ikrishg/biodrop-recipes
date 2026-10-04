@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema",
   "type": "object",
   "title": "LinkFree User Profile",
-  "description": "A user profile for LinkFree, displayed as linkfree.eddiehub.io/[username]",
+  "description": "A user profile for LinkFree, displayed as biodrop.io/[username]",
   "required": ["name", "type", "bio", "avatar", "links"],
   "properties": {
     "name": {
