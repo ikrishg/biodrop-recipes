@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ikrishg/linkfree-recipes#readme",
   "dependencies": {
     "ajv": "^8.12.0",
-    "globby": "^14.1.0",
+    "globby": "^16.2.4",
     "trevenant": "^1.0.0"
   },
   "devDependencies": {
