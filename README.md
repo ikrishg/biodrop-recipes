@@ -34,9 +34,9 @@ recipes.validateProfileData(data) // return an array: containing i) boolean indi
 
 ## 📞 We're Ready To Support
 
-* [x] [GitHub discussions](https://github.com/krshoss/linkfree-recipes/discussions)
-* [x] [Bug handler](https://github.com/krshoss/linkfree-recipes/issues)
+* [x] [GitHub discussions](https://github.com/ikrishg/linkfree-recipes/discussions)
+* [x] [Bug handler](https://github.com/ikrishg/linkfree-recipes/issues)
 
 ## ❤ Thanks to our supporters
 
-[![GitHub Stargazers](https://reporoster.com/stars/krshoss/linkfree-recipes)](https://github.com/krshoss/linkfree-recipes/stargazers)
+[![GitHub Stargazers](https://reporoster.com/stars/ikrishg/linkfree-recipes)](https://github.com/ikrishg/linkfree-recipes/stargazers)
