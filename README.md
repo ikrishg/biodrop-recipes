@@ -1,7 +1,7 @@
 > Archived in lieu of BioDrop (LinkFree) itself being archived. 
 
 <!-- markdownlint-disable-next-line -->
-<div align="center"><img height="100px" width="100px" src="https://raw.githubusercontent.com/EddieHubCommunity/LinkFree/main/public/logo512.png"><br><h1>linkfree-recipes</h1><h5>Tools for linkfree to manage (validate, update and create)  data</h5></div>
+<div align="center"><img height="100px" width="100px" src="https://raw.githubusercontent.com/EddieHubCommunity/LinkFree/main/public/logo512.png"><br><h1>biodrop-recipes</h1><h5>Tools for linkfree to manage (validate, update and create)  data</h5></div>
 
 ## 🌟 Installation
 
@@ -34,9 +34,5 @@ recipes.validateProfileData(data) // return an array: containing i) boolean indi
 
 ## 📞 We're Ready To Support
 
-* [x] [GitHub discussions](https://github.com/ikrishg/linkfree-recipes/discussions)
-* [x] [Bug handler](https://github.com/ikrishg/linkfree-recipes/issues)
-
-## ❤ Thanks to our supporters
-
-[![GitHub Stargazers](https://reporoster.com/stars/ikrishg/linkfree-recipes)](https://github.com/ikrishg/linkfree-recipes/stargazers)
+* [x] [GitHub discussions](https://github.com/ikrishg/biodrop-recipes/discussions)
+* [x] [Bug handler](https://github.com/ikrishg/biodrop-recipes/issues)
